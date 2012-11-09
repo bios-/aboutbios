@@ -9,3 +9,7 @@ In my free time, I work on my operating system, Mirus, make music, play Minecraf
 I like to consider myself a "nu-age" hacker.  The reasoning behind this as follows.  I can't be a real "hacker" by definition, because by definition, someone like rms (Richard Stallman) is a real hacker.  I am also too young to be a real hacker.  As such, let's call me a nu-age hacker (after nu-disco).  Or new-age.  But the first one is more interesting.  All hail new age hackers!
 
 Beside living in code, I also like to instruct others in the dark arts (and programming).  For that extent, I have set up a YouTube channel for teaching various computerstuffs, like programming, music production, graphic art, etc.  You can find it here: [YouTube](http://www.youtube.com/iambios)
+
+I also really, really like Github.  And Windows 8.  And Microsoft.  But I hate Apple.  And my 8th grade PE teacher.  And physical things in general.  But thats my problem.
+
+-bios
